@@ -3,8 +3,8 @@ Option Explicit
 
 Sub RemoveProtection()
 
-	'Run this.
-	'Code mostly copied from https://stackoverflow.com/a/62667982
+    'Run this.
+    'Code mostly copied from https://stackoverflow.com/a/62667982
 
     Dim dialogBox As FileDialog
     Dim sourceFullName As String
